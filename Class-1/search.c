@@ -1,7 +1,10 @@
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void)
+//// correct implementation of linear search////
+/// from left to right, looking for a number that may or may not be there.///
+
+int main(void)              
 {
     int numbers[] = {20, 500, 10, 5, 100, 1, 50};
 
