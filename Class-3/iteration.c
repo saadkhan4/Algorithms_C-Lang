@@ -13,7 +13,7 @@ void draw(int n)
 {
     for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < i + 1; j++)   //we just need to one hash one and after & after//
+        for (int j = 0; j < i + 1; j++)   //we just have need to one hash one and after & after//
         {
             printf("#");
         }
